@@ -1,0 +1,14 @@
+# Estimated characteristics of uncleared pixel distribution:
+# (This data taken from center of uncleared tissue image using --debug)
+mean: 125
+std: 10
+
+
+# Background filters:
+white_filter: 500
+dark_filter: 30
+
+# Acceptance criteria:
+prob_threshold: 0.0001
+
+
